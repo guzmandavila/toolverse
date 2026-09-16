@@ -4,8 +4,8 @@ Portal de herramientas digitales de Ronald Guzmán Dávila. Sitio estático para
 
 ## Herramientas
 
-- **Plantilla de noticia 16:9:** cambia la foto, edita los textos y exporta a PNG.
-- **Editor de placa:** editor de placas gráficas en `guzmandavila.github.io/Editor-de-placa/`.
+- **Placa editorial 16:9:** cambia foto y textos, aplica un perfil de marca y exporta a PNG. Incluye Vistazo/Enfoque/América Economía, Estadio, Hogar/Vistazo 8M, Sostenibilidad/Green Vistazo y un perfil personalizado.
+- **Editor de placa:** editor gráfico multiperfil en `guzmandavila.github.io/Editor-de-placa/`.
 
 ## Publicación
 
