@@ -2,6 +2,8 @@
 
 Portal de herramientas digitales de Ronald Guzmán Dávila. Sitio estático para GitHub Pages, sin dependencias de compilación.
 
+El encabezado usa `assets/hud-08-loop.mp4` como fondo animado monocromático y `assets/hud-08-poster.jpg` como imagen de respaldo.
+
 ## Herramientas
 
 - **Placa editorial 16:9:** cambia foto y textos, aplica un perfil de marca y exporta a PNG. Incluye Vistazo/Enfoque/América Economía, Estadio, Hogar/Vistazo 8M, Sostenibilidad/Green Vistazo y un perfil personalizado.
